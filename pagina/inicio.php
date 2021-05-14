@@ -9,7 +9,7 @@
         <div class="fila"> <!--primera fila-->
             <div class="columna">
                 <div class="filtro"></div>
-                <img src="/proyecto/imagenes/imagen1.jpeg">
+                <img src="/proyecto/proyecto_html/imagenes/imagen1.jpeg">
                 <div class="medio">
                     <div class="border_top"></div>
                     <h1 class="text-roman text-mayus title text_center">Viaja Seguro</h1>
@@ -18,7 +18,7 @@
             </div> <!-- columna 1-->
             <div class="columna">
                 <div class="filtro"></div>
-                <img src="/proyecto/imagenes/imagen3.jpeg">
+                <img src="/proyecto/proyecto_html/imagenes/imagen3.jpeg">
                 <div class="medio">
                     <div class="border_top"></div>
                     <h1 class="text-roman text-mayus title text_center">Viaja Seguro</h1>
@@ -29,7 +29,7 @@
         <div class="fila"> <!--segunda fila-->
             <div class="columna">
                 <div class="filtro"></div>
-                <img src="/proyecto/imagenes/imagen4.jpeg">
+                <img src="/proyecto/proyecto_html/imagenes/imagen4.jpeg">
                 <div class="medio">
                     <div class="border_top"></div>
                     <h1 class="text-roman text-mayus title text_center">Viaja Seguro</h1>
@@ -38,7 +38,7 @@
             </div> <!-- columna 1-->
             <div class="columna">
                 <div class="filtro"></div>
-                <img src="/proyecto/imagenes/imagen5.jpeg">
+                <img src="/proyecto/proyecto_html/imagenes/imagen5.jpeg">
                 <div class="medio">
                     <div class="border_top"></div>
                     <h1 class="text-roman text-mayus title text_center">Viaja Seguro</h1>
